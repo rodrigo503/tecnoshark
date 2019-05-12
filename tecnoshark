@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta name="description" content="tecnoshark, una pajina de ayuda para tiy para todos">
+<meta name="keyword" content="tecnoshark, ayuda tecnica">   
+<title>tecnoshark</title>
+</head>
+    <body background="fondo.jpg" text="black"><center><table width="950" alt="ir a inicio"><tr><td><a href="index.html"><img src="menu-button_icon-icons.com_72989.png" width="25"</a> <center><font face="arial black">HOLA</font><p><font face ="arial black">BIENBENIDOS TECNOSHARK OFICIAL</font></center></p><center><a href="https://www.facebook.com/Tecnoshark-429466407622699/?modal=admin_todo_tour"><img src="logo.png" width="300" alt= "logo de empresa"></a></center><p><center><font face="arial black">tecnoshark: una pajina web, de  asitencia tecnica, y venta de productos tecnologicos.</font></center></p> 
+    <h5><font face="arial black">SERVICIOS</font></h5>
+   <p><font face="arial black">-instalacion de windows de 32 y64 bits</font></p>
+   <p><font face="arial black">-instacion de office en todas sus verciones, 32 y 64 bits</font></p>
+   <p><font face="arial black">-instalacion de juegos y emuladores</font></p>
+   <p><font face="arial black">
+       </tb></tr></table></center>
+   <table cellspacing="10">
+       <tr>
+       <td><center><img src="facebook.png"width="30"></center></td>
+       <td><center><img src="facebook.png" width="30"></center></td>
+       </tr>
+       <tr>
+       <td><a href="https://www.facebook.com/profile.php?id=100005965896972">rodrigo alexander</a></td>
+       <td><center><a href="https://www.facebook.com/proadventist7">carlos perez</a></center></td>
+       </tr>
+    </table>
+</body>
+</html>
